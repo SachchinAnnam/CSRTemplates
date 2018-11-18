@@ -1,0 +1,251 @@
+﻿section {
+    padding-top: 4rem;
+    padding-bottom: 5rem;
+    background-color: #f1f4fa;
+}
+.wrap {
+    display: flex;
+    background: white;
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 7px 7px 30px -5px rgba(0,0,0,0.1);
+    margin-bottom: 2rem;
+    color:white;
+}i
+
+/*.wrap:hover {
+    background: linear-gradient(135deg,#6394ff 0%,#0a193b 100%);
+    color: white;
+}*/
+
+.ico-wrap {
+    margin: auto;
+}
+
+i {
+    font-size: 4.5rem !important;
+    color: white;
+    margin: 1rem;
+    padding-right: 1rem;
+}
+.vcenter {
+    margin: auto;
+}
+
+.mbr-section-title3 {
+    text-align: left;
+}
+h2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.display-5 {
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size: 1.4rem;
+}
+.mbr-bold {
+    font-weight: 700;
+}
+
+ p {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    line-height: 25px;
+}
+.display-6 {
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size: 1re
+    
+    
+    }
+    
+    .green
+{
+    background-color: #16a085;
+    border: 1px #1abc9c solid;
+}
+.green:hover{
+    background-color: #1abc9c;
+
+}
+.lightgreen
+{
+    background-color:#27ae60 ;
+    border: 1px #2ecc71 solid;
+}
+
+.lightgreen:hover
+{
+    background-color:#2ecc71 ;
+}
+.blue
+{
+    background-color:#2980b9 ;
+    border: 1px #2980b9 solid;
+}
+
+.blue:hover
+{
+    background-color:#3498db ;
+    
+}
+.violet
+{
+    background-color:#8e44ad ;
+    border: 1px #8e44ad solid;
+}
+
+.violet:hover
+{
+    background-color:#9b59b6 ; 
+}
+.midnightBlue
+{
+    background-color:#2c3e50 ;
+    border: 1px #2c3e50 solid;
+
+}
+.midnightBlue:hover
+{
+    background-color:#34495e ;
+    
+}
+.orange
+{
+    background-color:#f39c12 ;
+    border: 1px #f39c12 solid;
+}
+.orange:hover
+{
+    background-color:#f1c40f ;
+}
+.pumkin
+{
+    background-color:#d35400 ;
+    border: 1px #d35400 solid;
+}
+.pumkin:hover
+{
+    background-color:#e67e22 ;
+}
+
+.pomergranate
+{
+    background-color:#c0392b ;
+    border: 1px #c0392b solid;
+}
+.pomergranate:hover
+{
+     background-color:#e74c3c ;
+}
+.skyBlue
+{
+     background-color:#2962FF ;
+     border: 1px #2962FF solid;
+}
+.skyBlue:hover
+{
+     background-color:#2979FF ;
+}
+.indigo
+{
+    background-color:#3949AB ;
+    border: 1px #3949AB solid;
+}
+.indigo:hover
+{
+     background-color:#3F51B5;
+}
+.grey
+{
+   background-color:#455A64 ;
+   border: 1px #455A64 solid;
+}
+.grey:hover
+{
+     background-color:#546E7A;
+}
+.blueJeans
+{
+    background-color:#4A89DC ;
+    border: 1px #4A89DC solid;
+}
+.blueJeans:hover
+{
+    background-color:#5D9CEC;
+}
+.aqua
+{
+    background-color: #3BAFDA;
+    border:1px #3BAFDA solid;
+}
+.aqua:hover
+{
+  background-color: #4FC1E9   
+}
+
+.mint
+{
+    background-color: #37BC9B;
+    border:1px #37BC9B solid;
+}
+.mint:hover
+{
+   background-color: #48CFAD; 
+}
+.grass
+{
+    background-color:  #8CC152;
+    border:1px  #8CC152 solid;
+}
+.grass:hover
+{
+   background-color: #A0D468; 
+}
+.sunflower
+{
+    background-color:  #F6BB42;
+    border:1px  #F6BB42 solid;
+}
+.sunflower:hover
+{
+   background-color: #FFCE54; 
+}
+
+.bittersweet
+{
+    background-color:  #E9573F;
+    border:1px  #E9573F solid;
+}
+.bittersweet:hover
+{
+   background-color: #FC6E51; 
+}
+.grapefruit
+{
+    background-color:   #DA4453;
+    border:1px   #DA4453 solid;
+}
+.grapefruit:hover
+{
+   background-color: #ED5565; 
+}
+.lavender
+{
+    background-color:   #967ADC;
+    border:1px   #967ADC solid;
+}
+.lavender:hover
+{
+   background-color: #AC92EC; 
+}
+.lightgrey
+{
+    background-color:   #AAB2BD;
+    border:1px   #AAB2BD solid;
+}
+.lightgrey:hover
+{
+   background-color: #CCD1D9; 
+}
+    
