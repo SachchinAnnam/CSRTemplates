@@ -1,0 +1,64 @@
+﻿.eventsContainer
+{
+	width:50%;
+}
+
+
+
+.heading
+{
+	background-color: #e74c3c;
+	font-size:24px;
+	color:#fff;
+	padding: 10px 10px;
+	font-family: "Segoe UI";
+}
+.heading i
+{
+	font-size: 24px;
+}
+.listItems
+{
+	padding-left: 20px;
+	padding-right: 20px;
+	border:1px #e74c3c solid;
+    padding-top: 10px;
+}
+.heading span
+{
+	vertical-align: top;
+	margin-left: 5px;
+}
+.date
+{
+	display: inline-block;
+	color: #7f8c8d;
+	font-family: "Segoe UI";
+	width:50px;
+	border-right: 5px #7f8c8d solid;
+}
+
+.date .day
+{
+	font-size: 40px;
+}
+.date .month
+{
+	font-size: 16px;
+	margin-top: -5px;
+}
+.contents
+{
+	display: inline-block;
+	vertical-align:top;
+	font-size: 16px;
+	font-family: "Segoe UI";
+	padding-top: 8px;
+	padding-left:10px;
+	color:#7f8c8d;
+	
+}
+.title a
+{
+	margin-top: 10px;
+		color:#7f8c8d;}

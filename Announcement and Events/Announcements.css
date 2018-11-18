@@ -1,0 +1,36 @@
+﻿    .announcementContainer
+    {
+
+    }
+ #announcements h2 {
+        font-family: 'Segoe UI';
+        font-size: 2em;
+        padding:0px;
+        margin:0px;
+        font-weight:300;
+    }
+    .itemMetadata {
+        font-family: 'Segoe UI';
+        font-size: 12px;
+        color: #7f8c8d;
+    }
+    .items a {
+        font-family: 'Segoe UI';
+        font-size: 1.4em;
+        text-decoration: none;
+        color: #22313F;
+    }
+    
+    .listItems {
+        /*background-color: #efefef;*/
+    }
+    .items:hover {
+        background-color: #f9f6f6;
+    }
+    .items
+    {padding:10px 10px 10px 10px;}
+    
+    .separator
+    {padding:0px;
+     margin:0px;
+    }
