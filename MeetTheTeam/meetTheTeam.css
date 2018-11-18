@@ -1,0 +1,142 @@
+﻿.contentwrapper{
+	margin:10px !important;
+}
+#titlerow,#pageContentTitle{
+	display:none!important;
+	visibility:hidden!important;
+}
+#contentBox
+{
+	margin:0px!important;
+	padding:0px!important;
+}
+
+.card {
+    /*box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 200px;
+    height: 300px;
+    display: inline-block;float:left;
+    vertical-align: top;
+    margin-right: 5px;*/
+margin-top:10px;
+    width: 300px;
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+    margin-right: 10px;
+    white-space: normal;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin-bottom: 10px;
+  }
+  .card img
+  {
+	height:300px;
+}
+
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 16px 16px;
+    color:white!important;
+        margin-top: -4px;
+}
+.jobTitle a
+{
+color:white!important;	
+}
+.name
+{
+	margin:0px;
+	font-family:"Segoe UI";
+	font-size:16px;
+	font-weight:bold;
+}
+.jobTitle
+{
+	margin:0px;
+	font-family:"Segoe UI";
+	font-size:14px;
+	
+}
+
+
+.Red
+{
+	background-color:#f44336;
+}
+.Pink{
+	background-color:#e91e63;
+}
+
+.Purple{
+	background-color:#9c27b0;
+}
+
+.Deep-Purple{
+	background-color:#673ab7;
+}
+
+.Indigo{
+	background-color:#3f51b5;
+}
+
+.Blue{
+	background-color:#2196f3;
+}
+
+.Light-Blue{
+	background-color:#03a9f4;
+}
+
+.Cyan{
+	background-color:#00bcd4;
+}
+
+.Teal{
+	background-color:#009688;
+}
+
+.Green{
+	background-color:#4caf50;
+}
+
+.Light-Green{
+	background-color:#8bc34a;
+}
+
+.Lime{
+	background-color:#cddc39;
+}
+
+.Yellow{
+	background-color:#ffeb3b
+}
+
+.Amber{
+	background-color:#ffc107;
+}
+
+.Orange{
+	background-color:#ff9800;
+}
+
+.Deep-Orange{
+	background-color:#ff5722;
+}
+
+.Brown{
+	background-color:#795548;
+}
+
+.Grey{
+	background-color:#9e9e9e;
+}
+
+.Blue-Grey{
+	background-color:#607d8b;
+}
